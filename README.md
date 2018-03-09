@@ -4,3 +4,4 @@
 [JAVA常用数据结构及原理分析](http://blog.csdn.net/qq_29631809/article/details/72599708)  
 [线程和进程的区别](http://blog.csdn.net/zhou753099943/article/details/51771220)  
 [Scoket原理](http://blog.chinaunix.net/uid-21795529-id-3031850.html)  
+[HTTP与HTTPS区别](http://www.mahaixiang.cn/internet/1233.html)  
