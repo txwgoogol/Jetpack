@@ -6,3 +6,4 @@
 [Scoket原理](http://blog.chinaunix.net/uid-21795529-id-3031850.html)  
 [HTTP与HTTPS区别](http://www.mahaixiang.cn/internet/1233.html)  
 [Broadcast、Aidl、ContentProvider、Messager的区别和适用场景](http://blog.csdn.net/caicdd007/article/details/52152072)
+[Android：JNI 与 NDK到底是什么？](http://blog.csdn.net/carson_ho/article/details/73250163)  
