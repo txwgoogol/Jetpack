@@ -4,7 +4,7 @@
 [JAVA常用数据结构及原理分析](http://blog.csdn.net/qq_29631809/article/details/72599708)  
 [线程和进程的区别](http://blog.csdn.net/zhou753099943/article/details/51771220)  
 [Scoket原理](http://blog.chinaunix.net/uid-21795529-id-3031850.html)  
-[HTTP与HTTPS区别](http://www.mahaixiang.cn/internet/1233.html)    
+[HTTP与HTTPS区别](http://www.mahaixiang.cn/internet/1233.html)      
 [Broadcast、Aidl、ContentProvider、Messager的区别](http://blog.csdn.net/caicdd007/article/details/52152072)     
 [Android：JNI 与 NDK到底是什么？](http://blog.csdn.net/carson_ho/article/details/73250163)  
 [Dalvik虚拟机与java虚拟机的区别](https://www.jianshu.com/p/923aebd31b65)  
