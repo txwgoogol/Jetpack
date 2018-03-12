@@ -8,5 +8,5 @@
 [Broadcast、Aidl、ContentProvider、Messager的区别](http://blog.csdn.net/caicdd007/article/details/52152072)     
 [Android：JNI 与 NDK到底是什么？](http://blog.csdn.net/carson_ho/article/details/73250163)  
 [Dalvik虚拟机与java虚拟机的区别](https://www.jianshu.com/p/923aebd31b65)  
-[sleep 和 wait 区别](http://blog.csdn.net/liuzhenwen/article/details/4202967)   
+[sleep 和 wait 区别](http://blog.csdn.net/liuzhenwen/article/details/4202967)     
 [Android事件分发机制](https://www.jianshu.com/p/38015afcdb58)  
