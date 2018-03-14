@@ -14,3 +14,4 @@
 [Android垃圾回收机制](https://www.cnblogs.com/andy-songwei/p/6418920.html)  
 [【Android性能优化】内存泄露和内存溢出（OOM）的引发原因及优化方案](http://blog.csdn.net/mxm691292118/article/details/51020023)  
 [Android屏幕适配 各种解决方案](http://blog.csdn.net/lhzjllh/article/details/78918688)  
+[Android设计模式](https://www.jianshu.com/p/1a9f571ad7c0)  
