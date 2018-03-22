@@ -29,3 +29,6 @@
 [Android图片加载框架最全解析](http://blog.csdn.net/guolin_blog/article/details/53759439?utm_source=tuicool&utm_medium=referral)  
 [OkHttp3源码分析](http://blog.csdn.net/mwq384807683/article/details/71173442?locationNum=8&fps=1)  
 [RxJava2 源码解析——流程](https://www.jianshu.com/p/e5be2fa8701c)  
+
+### 架构思想
+[RESTful 架构详解](http://www.runoob.com/w3cnote/restful-architecture.html)  
