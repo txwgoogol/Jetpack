@@ -5,6 +5,9 @@
 [BAT大厂面试题](http://mp.weixin.qq.com/s/p3l9wr4DX976Lr62-dYe8w)  
 [Android面试题整理](http://mp.weixin.qq.com/s/ZvtGrh8siDM5vwxPhQdEKQ)  
 [BAT面试题](http://mp.weixin.qq.com/s/YRhtIRZ0j1k08EsNnjN8Wg)  
+[互联网大型公司（阿里腾讯百度等）android面试题目(有答案)](https://www.jianshu.com/p/fb815eaf628f)  
+[面试题整理](https://github.com/oo1993448102/CommonDevKnowledge)  
+
 
 ### Android面试题知识点  
 [Android之四大组件、六大布局、五大存储](http://blog.csdn.net/shenggaofei/article/details/52450668)  
