@@ -5,3 +5,5 @@
 [Glide  详解-郭霖](http://blog.csdn.net/guolin_blog/article/details/53759439?utm_source=tuicool&utm_medium=referral)  
 [OkHttp3源码解析](http://blog.csdn.net/mwq384807683/article/details/71173442?locationNum=8&fps=1)  
 [RxJava2源码解析](https://www.jianshu.com/p/e5be2fa8701c)  
+
+[Android 屏幕适配 (今日头条)](https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md)  
