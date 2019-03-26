@@ -193,3 +193,7 @@
 	    }
 
 	}
+
+
+
+###### [List中的对像的编号相同就把对像合并，并将数量相加](https://blog.csdn.net/Winter_chen001/article/details/72648512)  
