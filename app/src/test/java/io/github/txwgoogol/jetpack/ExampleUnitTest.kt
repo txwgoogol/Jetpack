@@ -1,4 +1,4 @@
-package ink.aizs.apps.jetpack
+package io.github.txwgoogol.jetpack
 
 import org.junit.Test
 
